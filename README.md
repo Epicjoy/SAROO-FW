@@ -2,6 +2,10 @@
 
 SAROO is a fully open-source CD drive emulator designed for the SEGA Saturn, perfect for both gamers and developers. Whether you want to relive your childhood classics or create your own homebrew games, SAROO has you covered. Load games from an SD card for a seamless gaming experience—SAROO makes it easy to enjoy endless fun!
 
+**User Manual：**
+
+https://github.com/Epicjoy/SAROO-FW/blob/84c32e67857d625b65059ac787dcef168aaa5e6c/doc/SAROO%20Quick%20Start%20Guide.pdf
+
 **Firmware version:**  firm v0.7
 
 **MCU:** 250222   **SS:**250222  **FPGA:**05[KLnM]
